@@ -1,6 +1,6 @@
 # Marathon Pace Band & Race Fuel Calculator
 
-Open-source algorithms for landmark-calibrated marathon pacing splits, printable wristband generation, and dual-transporter (1:0.8 maltodextrin to fructose) endurance fuel modeling for distance runners.
+Reference algorithms for landmark-calibrated marathon pacing splits, printable wristband generation, and dual-transporter (1:0.8 maltodextrin to fructose) endurance fuel modeling for distance runners.
 
 ## Live Applications & Calculators
 
@@ -62,6 +62,10 @@ Endurance fueling past 60 grams of carbohydrate per hour is physiologically limi
 
 ---
 
-## License
+## Terms & Reference
 
-MIT License © [Pace & Fuel](https://paceandfuel.com/)
+The algorithms and nutritional formulas outlined in this repository are published for educational, research, and technical reference. 
+
+The web applications, design systems, and software implementations at [paceandfuel.com](https://paceandfuel.com/) are proprietary.
+
+Copyright © [Pace & Fuel](https://paceandfuel.com/). All rights reserved.
